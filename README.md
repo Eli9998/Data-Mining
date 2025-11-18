@@ -1,2 +1,2 @@
-# Data-Mining-Final-Project
+# Data-Mining
 Empty
